@@ -1,0 +1,27 @@
+{
+  "wallet": "bc1q_sample_test_wallet",
+  "fetched_at": 1709000000,
+  "transactions": [
+    {
+      "from": "bc1q_wallet_A",
+      "to": "bc1q_wallet_B",
+      "amount": 1.5,
+      "time": 1709000000,
+      "txid": "txid_001_abcdef1234"
+    },
+    {
+      "from": "bc1q_wallet_B",
+      "to": "bc1q_wallet_C",
+      "amount": 0.3,
+      "time": 1709000400,
+      "txid": "txid_002_abcdef5678"
+    },
+    {
+      "from": "bc1q_wallet_C",
+      "to": "bc1q_exchange_binance_seed",
+      "amount": 0.05,
+      "time": 1709000800,
+      "txid": "txid_003_abcdef9012"
+    }
+  ]
+}

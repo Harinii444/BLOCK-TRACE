@@ -1,9 +1,4 @@
+venv/
 __pycache__/
 *.pyc
-venv/
-.env
-*.pdf
-reports/
-data/cache/
-data/samples/
-.database/*.db
+data/cache/*.json
